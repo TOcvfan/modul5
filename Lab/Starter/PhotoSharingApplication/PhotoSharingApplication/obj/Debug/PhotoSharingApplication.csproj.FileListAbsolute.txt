@@ -1,0 +1,100 @@
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\csc.exe
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\csc.exe.config
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\csc.rsp
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\csi.exe
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\csi.rsp
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.AppContext.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\vbc.exe
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\vbc.exe.config
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\vbc.rsp
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\VBCSCompiler.exe
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.dll.config
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.pdb
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.SqlServer.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Helpers.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Mvc.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Razor.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.Deployment.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.Razor.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.xml
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.SqlServer.xml
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Razor.xml
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.xml
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.Deployment.xml
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.Razor.xml
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Helpers.xml
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Mvc.xml
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.dll
+C:\vs\04 - ASP.NET MVC\module 03 - Developing ASP.NET MVC 4 Models\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.pdb
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\csc.exe
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\csc.exe.config
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\csc.rsp
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\csi.exe
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\csi.rsp
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.AppContext.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\vbc.exe
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\vbc.exe.config
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\vbc.rsp
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\VBCSCompiler.exe
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.dll.config
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\PhotoSharingApplication.pdb
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.SqlServer.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Helpers.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Mvc.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Razor.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.Deployment.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.Razor.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.xml
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\EntityFramework.SqlServer.xml
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Razor.xml
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.xml
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.Deployment.xml
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Webpages.Razor.xml
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Helpers.xml
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\bin\System.Web.Mvc.xml
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.dll
+C:\vs\04 - ASP.NET MVC\module 04 - Developing ASP.NET MVC Controllers\Lab\Solution\PhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.pdb
